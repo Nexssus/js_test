@@ -1,0 +1,22 @@
+{
+  "name": "js_test",
+  "version": "1.0.0",
+  "description": "Skola Rajak QA Kurs JS Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexssus/js_test.git"
+  },
+  "author": "Negovan Milenkovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nexssus/js_test/issues"
+  },
+  "homepage": "https://github.com/Nexssus/js_test#readme",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
